@@ -58,4 +58,7 @@ wrapt==1.15.0
 zipfile2==0.0.12
 zipp==3.15.0
 
-# pytesseract için tesseract indirilmeli ve tesseractın kullanılacağı dosyada tesseract.exe dosyasının yolu orada belirtilmelidir.
+# pytesseract için tesseract indirilmeli ve tesseractın kullanılacağı dosyada tesseract.exe dosyasının yolu orada belirtilmelidir. (deneme.py dosyasında)
+# deneme.py dosyasında veri seti ile ilgili tesseract kullanılarak karakter okutma yapılmıştır.
+# model.py dosyasında ocr modeli oluşturulup eğitilmiştir.
+# test_etme.py dosyasında eğitilmiş model verilerle test edilmiştir.
